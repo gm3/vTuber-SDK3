@@ -62,9 +62,9 @@ There are different versions of this suite. If you had built a studio on the old
 
 
 ## Web Resources:
-http://Unity3d.com/
-http://vrchat.com/
+* http://Unity3d.com/
+* http://vrchat.com/
 
-## Contact
+## Community
 
-Please check out some our productions on [Youtube](https://www.youtube.com/results?search_query=godfrey+meyer&page=&utm_source=opensearch) "Godfrey Meyer" or [#boomboxhead](https://www.youtube.com/results?search_query=%23boomboxhead) to find videos. If you have any questions please feel free to reach out to me @godfreymeyer on twitter. Have fun and link me to the videos you make, thanks!
+Please check out some our productions on [Youtube](https://www.youtube.com/results?search_query=godfrey+meyer&page=&utm_source=opensearch) "Godfrey Meyer" or [#boomboxhead](https://www.youtube.com/results?search_query=%23boomboxhead) to find videos. If you have any questions please feel free to reach out us in the M3 Discord https://discord.gg/JvCd2QWkeH
