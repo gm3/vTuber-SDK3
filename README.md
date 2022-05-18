@@ -1,5 +1,7 @@
 # vTuber Studio SDK3
 
+Changlog https://github.com/gm3/vTuber-SDK3/wiki/changelog
+
 ## Summary
 This is a project for doing virtual productions in VRChat SDK3 (Udon using uSharp). 
 It features a system with 9 cameras, and 12 overlay slides. This studio features realtime lighting and a video screen that can play videos. Use these tools to capture multi-camera realtime footage from within vrchat.
