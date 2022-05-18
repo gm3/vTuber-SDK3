@@ -4,6 +4,9 @@
 This is a project for doing virtual productions in VRChat SDK3 (Udon using uSharp). 
 It features a system with 9 cameras, and 12 overlay slides. This studio features realtime lighting and a video screen that can play videos. Use these tools to capture multi-camera realtime footage from within vrchat.
 
+![](https://i.imgur.com/l4D3y8D.png)
+
+
 ## Instructions (Keyboard Controls for PC User)
 * 1-9 keys will swap between cameras
 * Zero Key (0) goes to Overlay mode
@@ -16,6 +19,8 @@ It features a system with 9 cameras, and 12 overlay slides. This studio features
 * U - Toggle All Cameras On and Off
 * K - Photo Screen Backdrop Toggle
 * O - Camera Preview Toggle
+* B - Show Hide Boxes
+* N - Show Hide The TVWall and Hide Large Screens
 
 Slides (Use Numeric Keypad)
 * 0-9, (.), (+) to change slides
