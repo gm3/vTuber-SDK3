@@ -32,7 +32,7 @@ Slides (Use Numeric Keypad)
 When the keyboard controls are pressed (1-9) the camera seleted will be Set to Active, while the others are set to Inactive. This will feed the main camera output(render texture) The camera previews can be seen on the camera preview panel using Render textures as well( at a lower resolution for optimization. ) The camera previews are a duplicate of the main camera with all of the exact same parameters, except they feed a render texture so that you can preview the cameras before switching.
 
 ### General Workflow
-To make a custom production, we create and customize a set, configure the locations of the cameras, animate the cameras, then during runtime, we use the camera control panel to switch between these cameras with a camera operator in real time. 
+To make a custom production, we create and customize a set, configure the locations of the cameras, animate the cameras, then during runtime, we use the keys 1-9 to switch between these cameras with a camera operator in real time. 
 
 VRChat is our networked IK, motion capture, and avatar production layer. We are capturing the video output with OBS (Open Broadcast Software) from the Unity game engine. 
 
