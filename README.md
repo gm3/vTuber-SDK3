@@ -21,8 +21,6 @@ It features a system with 9 cameras, and 12 overlay slides. This studio features
 * U - Toggle All Cameras On and Off
 * K - Photo Screen Backdrop Toggle
 * O - Camera Preview Toggle
-* B - Show Hide Boxes
-* N - Show Hide The TVWall and Hide Large Screens
 
 Slides (Use Numeric Keypad)
 * 0-9, (.), (+) to change slides
