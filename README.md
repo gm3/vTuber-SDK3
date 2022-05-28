@@ -83,6 +83,7 @@ You can push P to disable / enable realtime reflections vr baked ones.
 - AvatarLight by PI https://github.com/PiMaker/VRChatUnityThings
 - lox9973's VideoRT https://drive.google.com/file/d/1XQBybXg2D87AueLI87UuujA3jDN4fU33/view https://github.com/PiMaker/VRChatUnityThings
 - JetDogs Prefabs (Udon) https://github.com/jetdog8808/Jetdogs-Prefabs-Udon
+- Avatar Menu https://nyon.gumroad.com/l/avatar-menu
 
 ## Legacy VRC SDK2 Versions Of This Camera System
 There are different versions of this suite. If you had built a studio on the older version. Here is a link to that project, but I suggest you update to the new system, I will not be supporting the Legacy System anymore unfortunatly. 
