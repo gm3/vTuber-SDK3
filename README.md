@@ -48,7 +48,7 @@ Move the cameras (via the Parent Object) and feel free to animate or extend the 
 Because of the way the camera previews work, you should only move the Master Root of each camera. You can add an additional Parent object to the cameras if you like, and animate those for animated camera tracks. 
 
 ### Camera Culling / Hiding Objects From Cameras
-If you would like to hide / show things in the camera output, you would setup layers and use camera culling with a "SeenByCamera" layer. Also if you use greenscreen consider culling it from the refelction probe. You can push P to disable realtime reflections.
+If you would like to hide / show things in the camera output, you would setup layers and use camera culling with a "SeenByCamera" layer. Also if you use greenscreen consider culling it from the refelction probe. You can push P to disable / enable realtime reflections.
 
 ## Dependencies
 - Unity **Unity 2019.4.31f1.**  https://docs.vrchat.com/docs/current-unity-version
