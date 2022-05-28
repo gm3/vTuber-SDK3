@@ -4,6 +4,8 @@ Changlog https://github.com/gm3/vTuber-SDK3/wiki/changelog
 
 Template Unity Project https://drive.google.com/file/d/1_9Zi1dXxvB8qfxqDmn_y5eildvgrH6tZ/view?usp=sharing
 
+Test the world in VRChat https://vrchat.com/home/launch?worldId=wrld_73790761-5a88-4740-8681-371068a3e0ba&instanceId=47993~hidden(usr_7eb45dbc-6146-4db4-bf97-2287df5f29c6)~region(us)~nonce(c957da67-645d-4df0-8753-c4bab608429b)
+
 ## Summary
 This is a project for doing virtual productions in VRChat SDK3 (Udon using uSharp). 
 It features a system with 9 cameras, and 12 overlay slides. This studio features realtime lighting and a video screen that can play videos. Use these tools to capture multi-camera realtime footage from within vrchat.
