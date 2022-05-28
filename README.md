@@ -70,8 +70,9 @@ You can push P to disable / enable realtime reflections vr baked ones.
 
 ![](https://i.imgur.com/iQMTAB6.png)
 
-
-
+### Known Bugs
+- [ ] Rotate main camera 90 degress to fix the aniamtion bug
+- [x] Fork Project for public use
 
 
 ## Dependencies
