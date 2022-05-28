@@ -2,7 +2,7 @@
 
 Changlog https://github.com/gm3/vTuber-SDK3/wiki/changelog
 
-Template Unity Project https://drive.google.com/file/d/1_9Zi1dXxvB8qfxqDmn_y5eildvgrH6tZ/view?usp=sharing
+Template Unity 2019.4.31f1 Project https://drive.google.com/file/d/1_9Zi1dXxvB8qfxqDmn_y5eildvgrH6tZ/view?usp=sharing
 
 
 ## Summary
