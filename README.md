@@ -1,15 +1,16 @@
 # vTuber Studio SDK3
 
+###### tags: `vtuber` `virtual production`
 Changlog https://github.com/gm3/vTuber-SDK3/wiki/changelog
 
-Template Unity 2019.4.31f1 Project https://drive.google.com/file/d/1_9Zi1dXxvB8qfxqDmn_y5eildvgrH6tZ/view?usp=sharing
+vTuber Studio SDK3 v02 running on Unity 2019.4.31f1 Project https://drive.google.com/file/d/1ja6vUGoyKKIDrYdQLykrHq8keERj_qYw/view?usp=sharing
 
 
 ## Summary
 This is a project for doing virtual productions in VRChat SDK3 (Udon using uSharp). 
 It features a system with 9 cameras, and 12 overlay slides. This studio features realtime lighting and a video screen that can play videos. Use these tools to capture multi-camera realtime footage from within vrchat.
 
-![](https://i.imgur.com/v71kzoU.jpg)
+![](https://i.imgur.com/DHikM0z.jpg)
 
 ## Instructions (Keyboard Controls for PC User)
 * 1-9 keys will swap between cameras
@@ -17,6 +18,7 @@ It features a system with 9 cameras, and 12 overlay slides. This studio features
 * F - Map Cameras To Screen
 * L - Hand Held Camera Light
 * G - Greenscreen
+* H - show hide video player
 * M - Mirror Toggle
 * T - Studio Lights Toggle
 * P - Reflection Probe Toggle
@@ -70,10 +72,6 @@ You can push P to disable / enable realtime reflections vr baked ones.
 
 ![](https://i.imgur.com/iQMTAB6.png)
 
-### Known Bugs
-- [ ] Rotate main camera 90 degress to fix the aniamtion bug
-- [x] Fork Project for public use
-
 
 ## Dependencies
 - Unity **Unity 2019.4.31f1.**  https://docs.vrchat.com/docs/current-unity-version
@@ -84,15 +82,6 @@ You can push P to disable / enable realtime reflections vr baked ones.
 - AvatarLight by PI https://github.com/PiMaker/VRChatUnityThings
 - lox9973's VideoRT https://drive.google.com/file/d/1XQBybXg2D87AueLI87UuujA3jDN4fU33/view https://github.com/PiMaker/VRChatUnityThings
 - JetDogs Prefabs (Udon) https://github.com/jetdog8808/Jetdogs-Prefabs-Udon
-- Avatar Menu https://nyon.gumroad.com/l/avatar-menu
-
-## Legacy VRC SDK2 Versions Of This Camera System
-There are different versions of this suite. If you had built a studio on the older version. Here is a link to that project, but I suggest you update to the new system, I will not be supporting the Legacy System anymore unfortunatly. 
-
-* VRC SDK2 Complete Project (With All Assets) https://drive.google.com/file/d/15jAm3EPSTKnkhMjjMzsJxeEzn09iHol_/view?usp=sharing
-    * Test Legacy World Here: https://vrchat.com/home/launch?worldId=wrld_9842d4fc-0c40-4e00-887e-5f2ef596c65c&instanceId=0
-* vTuber Cameras Podcast Shell SDK2 VRChat Unity Project 2018.20f1 https://drive.google.com/file/d/1Z_LpFNJ2HOvwn2v_7CFaShjw-OWHRc0T/view?usp=sharing
-    * Test the world here: https://vrchat.com/home/launch?worldId=wrld_9d9f2bbc-20b2-4826-86d2-689e200a14fd&instanceId=0
 
 
 ## Web Resources:
