@@ -11,7 +11,7 @@ It features a system with 9 cameras, and 12 overlay slides. This studio features
 vTuber Studio SDK3 v0.2.0-alpha running on Unity 2019.4.31f1 
 https://github.com/gm3/vTuber-SDK3/releases
 
-Extract the project, and open with Unity 2029.4.32f1 and you will have to wait for the Library to rebuild. 
+Extract the project, and open with Unity 2019.4.31f1  and you will have to wait for the Library to rebuild. 
 The shader varients need to compile as well and it takes quite a while. 
 After you compile the project once, you can go into the Project Settings -> Graphics and save the shader varients to make the project compile faster. 
 
