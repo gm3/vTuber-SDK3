@@ -73,16 +73,16 @@ If you would like to hide / show things in the camera output, you would setup la
 ![](https://i.imgur.com/vBScaE1.png)
 
 ### Reflection Probes
-You can push P to disable / enable realtime reflections vr baked ones. 
+You can push P to disable / enable realtime reflections vr baked ones. (Realtime Looks Better but has a performance cost)
 
 ![](https://i.imgur.com/iQMTAB6.png)
-
 
 ## Dependencies
 - Unity **Unity 2019.4.31f1.**  https://docs.vrchat.com/docs/current-unity-version
 - **VRChat SDK3** https://vrchat.com/home/download
 - Udon Sharp by Merlin https://github.com/MerlinVR/UdonSharp
 - "uSharp Video Player" by Merlin https://github.com/MerlinVR/USharpVideo
+- Wolfe Video Player (Udon) https://vrchat.nishawolfe.com/prefabs/videoplayer
 - LTCGI by PI https://github.com/PiMaker/ltcgi
 - AvatarLight by PI https://github.com/PiMaker/VRChatUnityThings
 - lox9973's VideoRT https://drive.google.com/file/d/1XQBybXg2D87AueLI87UuujA3jDN4fU33/view https://github.com/PiMaker/VRChatUnityThings
