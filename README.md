@@ -3,7 +3,8 @@
 ###### tags: `vtuber` `virtual production`
 Changlog https://github.com/gm3/vTuber-SDK3/wiki/changelog
 
-vTuber Studio SDK3 v0.2.0-alpha running on Unity 2019.4.31f1 Project https://drive.google.com/file/d/1ja6vUGoyKKIDrYdQLykrHq8keERj_qYw/view?usp=sharing
+vTuber Studio SDK3 v0.2.0-alpha https://github.com/gm3/vTuber-SDK3/releases
+running on Unity 2019.4.31f1 Project https://drive.google.com/file/d/1ja6vUGoyKKIDrYdQLykrHq8keERj_qYw/view?usp=sharing
 
 
 ## Summary
