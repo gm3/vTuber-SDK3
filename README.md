@@ -10,6 +10,8 @@ vTuber Studio SDK3 v02 running on Unity 2019.4.31f1 Project https://drive.google
 This is a project for doing virtual productions in VRChat SDK3 (Udon using uSharp). 
 It features a system with 9 cameras, and 12 overlay slides. This studio features realtime lighting and a video screen that can play videos. Use these tools to capture multi-camera realtime footage from within vrchat.
 
+## Usage, extract the project, and open with Unity 2029.4.32f1 and you will have to wait for the Library to rebuild, alond with compile the shader varients when compiling to upload. After you compile it once, you can save the shader varients to make the project compile faster. 
+
 ![](https://i.imgur.com/DHikM0z.jpg)
 
 ## Instructions (Keyboard Controls for PC User)
