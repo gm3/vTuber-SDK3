@@ -93,8 +93,6 @@ You can push P to disable / enable realtime reflections vr baked ones. (Realtime
 * http://Unity3d.com/
 * http://vrchat.com/
 
-Changlog https://github.com/gm3/vTuber-SDK3/wiki/changelog
-
 ## Community
 
 Please check out some our productions on [Youtube](https://www.youtube.com/results?search_query=godfrey+meyer&page=&utm_source=opensearch) "Godfrey Meyer" or [#boomboxhead](https://www.youtube.com/results?search_query=%23boomboxhead) to find videos. If you have any questions please feel free to reach out us in the M3 Discord https://discord.gg/JvCd2QWkeH
