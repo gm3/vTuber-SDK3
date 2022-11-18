@@ -1,4 +1,4 @@
-# vTuber Studio SDK3
+# vTuber Studio SDK3 (Depreciated / Not SUpported)
 
 ###### tags: `vtuber` `virtual production`
 
@@ -88,11 +88,3 @@ You can push P to disable / enable realtime reflections vr baked ones. (Realtime
 - lox9973's VideoRT https://drive.google.com/file/d/1XQBybXg2D87AueLI87UuujA3jDN4fU33/view https://github.com/PiMaker/VRChatUnityThings
 - JetDogs Prefabs (Udon) https://github.com/jetdog8808/Jetdogs-Prefabs-Udon
 
-
-## Web Resources:
-* http://Unity3d.com/
-* http://vrchat.com/
-
-## Community
-
-Please check out some our productions on [Youtube](https://www.youtube.com/results?search_query=godfrey+meyer&page=&utm_source=opensearch) "Godfrey Meyer" or [#boomboxhead](https://www.youtube.com/results?search_query=%23boomboxhead) to find videos. If you have any questions please feel free to reach out us in the M3 Discord https://discord.gg/JvCd2QWkeH
