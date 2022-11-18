@@ -1,4 +1,4 @@
-# vTuber Studio SDK3 (Depreciated / Not SUpported)
+# vTuber Studio SDK3 (Depreciated / Not Updated Or Supported Anymore)
 
 ###### tags: `vtuber` `virtual production`
 
